@@ -52,4 +52,4 @@ let SegitigaTerbalik = new Draw();
 SegitigaTerbalik.GambarSegitigaTerbalik(7);
 
 let SelangSeling = new Draw();
-Selangseling.GambarSelangseling(7);
+SelangSeling.GambarSelangSeling(5);
